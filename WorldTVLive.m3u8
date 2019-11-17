@@ -17370,3 +17370,71 @@ http://stream.lytv.net.cn/1/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="",龙岩综合
 http://stream.lytv.net.cn/2/sd/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg" group-title="",Arirang HD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Religious",CGNTV
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="",ETN  SD
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/Kplus_logo.png/revision/latest?cb=20170304052927" group-title="",K+
+http://210.210.155.35/uq2663/h/h08/index1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="",K+
+http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="",K+
+http://210.210.155.35/uq2663/h/h08/index2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="",K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-entertainment-logo.png" group-title="",K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Korea:KBS LIVE
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/chunklist.m3u8?wowzasessionid=179252988
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="YTN DMB" tvg-logo="Logo N/A" group-title="",YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",YTN 사이언스 (YTN Science)
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",YTN 코리안
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b732000.m3u8
+#EXTINF:-1,TVB新闻台
+https://lss.line-scdn.net/cc_tw/p/live/hA-z8WqxzHQMQLAETLzkCNHxIFGc-JVkHfCZVNGRBQGY6IVldLCNXZmNERzFrdAsHeCdZNjBJRjVqNFgHeiFWNjATXm8oMwUCODgMPD0VX24-elBV/abr.m3u8
+
+#EXTINF:-1,东森新闻
+https://lss.line-scdn.net/cc_tw/p/live/hzwcLIlpEJlkJWDpJNk05bmVlK2twBWQLa1JubS41ezwjDWdcZFJqO34yf2twA2Fca1NibCw3eW57QGNdY1ViPi83ZTUxRz5YIUw3ZiRhZDQnDmsP/abr.m3u8
+
+#EXTINF:-1,民视
+https://lss.line-scdn.net/cc_tw/p/live/hQnvpTHUaDUAeZBFQI3ESd3AAWXNuOEAUf25FdW8JUCU2MUxFcWpJLmkBA3djbE5AJ29JdT0PUzRnakgRf2gSJHBUEjM6bwoIKjcec3FVBHpvOA/abr.m3u8
+
+#EXTINF:-1,FTV综艺
+https://lss.line-scdn.net/cc_tw/p/live/hDrCTAH62GFwpQARMFlUHa0V-Rj8BFQhYEkpQaVgtRTkDFVlZRE0HPAx-EWRTGFoCEEtcblskRG1QWF1YQ01ca18pWzARXwBdAVQJYwR5WjEHFlUK/abr.m3u8
+
+#EXTINF:-1,中天综合
+https://lss.line-scdn.net/cc_tw/p/live/hVtw_ln3aClodSxZKIl4VbXFyVTtlF0cJJUFCb2smVz83HktfcBUROGgiUm0yEh0PckBOaG4vU25jU09ed0ZOaj9xSTYlVBJbNV8bZTBySDczHUcM/abr.m3u8
+
+#EXTINF:-1,中天综合
+https://lss.line-scdn.net/cc_tw/p/live/hb1Zfp0ayPh8wciIPD2chKFxMZycdJnNID3h2fREfY3oafC9LXyonLRYZZSpCe3kaX3l6LUMXZytDansbWn4nexEdfXMIbSYeGGYvIB1LfHIeJHNJ/abr.m3u8
+
+#EXTINF:-1,爱放
+https://lss.line-scdn.net/cc_tw/p/live/hi5N2hU_KNRskJikLGzMqLEhKPSNWeyJNGix9eVFLaH4OKCFFSCsufANNYS4LfXlFTC1xLgVLaCtfPnAfTiordFRMdnccOS0aDDIkJAkfd3YKcHhN/abr.m3u8
+
+#EXTINF:-1,影迷数位电影
+https://lss.line-scdn.net/cc_tw/p/live/h-gToCyZWcUk-e21ZAW5uflIXK3lFczFOAnE5KxkWLCwUdWAdUXk1KRtFL35Dc2cWAnA1e08fKnxAYzRNVHdoKxgfMiUGZGlIFm9gdhNCMyQQLTwf/abr.m3u8
