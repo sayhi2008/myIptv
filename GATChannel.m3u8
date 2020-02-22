@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1 ,5m Life Hacks
+https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
+#EXTINF:-1 ,5m Quick Crafts
+https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+#EXTINF:-1 ,Electric Now
+https://bozztv.com/veset1/720pHi/playlist_720pHi.m3u8
+#EXTINF:-1 ,Fashion Channel
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,FASHIONTV
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
+#EXTINF:-1 ,HBO family
+http://58.215.133.185:5021/live/181?pid=VMRIIUOWUJRA@5021BKW&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+#EXTINF:-1 ,HBO hit
+http://58.215.133.185:5021/live/238?pid=HHQEGROJIVJW@5082QPD&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+#EXTINF:-1 ,HBO hit
+http://58.215.133.185:5021/live/238?pid=HHQEGROJIVJW@5082QPD&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+#EXTINF:-1 ,Hit music
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 ,huya源
+http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
+#EXTINF:-1 ,News Net (HD)
+https://bozztv.com/36bay2/gin-newsnet/index.m3u8
+#EXTINF:-1 ,Relaxing Guitar Music
+https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
+#EXTINF:-1 ,中华卫视台湾
+http://pull.leshantangjt.com/live/playlist.m3u8
+#EXTINF:-1 ,中視新聞
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
+#EXTINF:-1 ,亞美卫视
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 ,人間衛視
+http://54.64.23.79:1935/live/vod/playlist.m3u8
+#EXTINF:-1 ,信吉電視
+http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+#EXTINF:-1 ,全美電視
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 ,凤凰中文
+http://liveali.ifeng.com/live/FHZW.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://liveali.ifeng.com/live/FHZX.m3u8
+#EXTINF:-1 ,加拿大中文电视台
+http://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_2150400_av-b.m3u8
+#EXTINF:-1 ,动物世界
+http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+#EXTINF:-1 ,博斯魅力 Sportcast
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 ,卡塔尔半岛新聞Aljazeera
+http://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
+#EXTINF:-1 ,卡塔尔-半島电视AlJazeera
+http://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8?540p/dsjtv.m3u8
+#EXTINF:-1 ,原住民族電視
+https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
+#EXTINF:-1 ,台灣藝術
+http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
+#EXTINF:-1 ,台視新聞
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
+#EXTINF:-1 ,台視財經
+https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
+#EXTINF:-1 ,唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 ,大愛一
+http://tv1.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 ,大愛二
+https://tv2.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 ,大愛海外
+https://tv3.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 ,新唐人中国
+https://live2.ntdimg.com/cnlive/playlist.m3u8
+#EXTINF:-1 ,新唐人加东臺
+https://live.ntdimg.com/mllive860/playlist.m3u8
+#EXTINF:-1 ,新唐人加西臺
+https://live.ntdimg.com/cwlive220/playlist.m3u8
+#EXTINF:-1 ,新唐人旧金山臺
+https://live.ntdimg.com/sflive990/playlist.m3u8
+#EXTINF:-1 ,新唐人美东臺
+https://live.ntdimg.com/live400/playlist.m3u8
+#EXTINF:-1 ,新唐人美西臺
+https://live.ntdimg.com/uwlive990/playlist.m3u8
+#EXTINF:-1 ,有線新聞
+https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+#EXTINF:-1 ,澳亚卫视
+http://stream.mastvnet.com/MASTV/playlist.m3u8
+#EXTINF:-1 ,熊貓台 Ipanda
+https://mobilelive-play.ysp.cctv.cn/ysp/2001366601_hd.m3u8
+#EXTINF:-1 ,番薯
+http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
+#EXTINF:-1 ,緯來育樂
+https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
+#EXTINF:-1 ,耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 ,臺新聞
+https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+#EXTINF:-1 ,華藏衛視
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+#EXTINF:-1 ,[国语|香港] 凤凰 香港
+http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
+#EXTINF:-1 ,[国语|香港] 星空卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,[国语|香港] 阳光卫视
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 ,[国语|香港] 香港卫视 HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,[粤语|澳门] 澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 ,[粤语|澳门] 澳视
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 ,[粤语|澳门] 澳视 澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 ,[粤语|澳门] 澳视 资讯
+http://61.244.22.4/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 ,[粤语|澳门] 莲花卫视
+http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:-1 ,[粤语|香港] C+
+https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
+#EXTINF:-1 ,[粤语|香港] Now 新闻
+http://hls.globaliptv.ml/now332.php
+#EXTINF:-1 ,[粤语|香港] Now 直播
+http://hls.globaliptv.ml/now331.php
+#EXTINF:-1 ,[粤语|香港] TVB 财经资讯
+http://live.ergt4rt.wang/gangaotai.php?id=10
+#EXTINF:-1 ,[粤语|香港] 亚旅卫视
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 ,[粤语|香港] 有线 新闻
+https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+#EXTINF:-1 ,[粤语|香港] 有线 新闻 ★
+https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+#EXTINF:-1 ,[粤语|香港] 有线 综合娱乐
+http://wowgua.com/live/channel_301.m3u8
+#EXTINF:-1 ,[粤语|香港] 有线 财经资讯
+http://wowgua.com/live/channel_108.m3u8
+#EXTINF:-1 ,88賽馬频道
+http://tvbilive11-i.akamaihd.net/hls/live/494672/CH88/CH88-01.m3u8
+#EXTINF:-1 ,HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 ,nhk华语
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#EXTINF:-1 ,nhk英语新闻
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1 ,Tvb   韓劇台
+http://tvbilive17-i.akamaihd.net/hls/live/573853/CKDrama5/CKDrama5-01.m3u8
+#EXTINF:-1 ,Tvb 星河
+http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
+#EXTINF:-1 ,凤凰中文
+http://125.210.152.18:9090/live/FHZW_1200.m3u8
+#EXTINF:-1 ,凤凰中文
+http://liveali.ifeng.com/live/FHZW.flv
+#EXTINF:-1 ,凤凰资讥
+http://liveali.ifeng.com/live/FHZX.flv
+#EXTINF:-1 ,加美東
+http://tvbilive9-i.akamaihd.net/hls/live/494661/CJCA5E/CJCA5E-04.m3u8
+#EXTINF:-1 ,华语視界日本NHK Japan
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 ,南方TVS-1
+http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
+#EXTINF:-1 ,南方TVS-3
+http://nclive.grtn.cn/4K/sd/live.m3u8
+#EXTINF:-1 ,南方TVS-4
+http://nclive.grtn.cn/tvs4/sd/live.m3u8
+#EXTINF:-1 ,南方TVS-5
+http://nclive.grtn.cn/tvs5/sd/live.m3u8
+#EXTINF:-1 ,南方卫視
+http://nclive.grtn.cn/tvs2/sd/live.m3u8
+#EXTINF:-1 ,新唐人亞太台 NTD TV
+https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 ,日本全天新聞
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 ,有线新闻台
+https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
+#EXTINF:-1 ,有线电影一台
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,澳亞衛視
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,澳門微电影
+http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 ,澳門有线一台
+http://202.175.127.77/live/show/ch1/index.m3u8
+#EXTINF:-1 ,澳門莲花Lotus Macau
+http://3026552884.cloudvdn.com/a.m3u8?domain=live-rtmp.macaulotustv.com&player=bmkAAMgf5XZo88kV&secondToken=secondToken%3AOmGgDS5n8GfGgv-zv8OSc8LVCqk&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
+#EXTINF:-1 ,澳門蓮花
+http://401368590.cloudvdn.com/a.m3u8?domain=live-rtmp.lotustv.duolaibo.cn&player=xnEAALXgSHru8OEV&secondToken=secondToken%3A8A95D1jn7TGH09qZItmHRPst3HM&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
+#EXTINF:-1 ,虎牙电影
+http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1 ,香港時
+http://tvbilive10-i.akamaihd.net/hls/live/494663/CJHK5/CJHK5-04.m3u8
+#EXTINF:-1 ,鳳凰中文
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 ,鳳凰中文
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 ,鳳凰中文
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 ,鳳凰中文
+http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+#EXTINF:-1 ,鳳凰中文
+http://live.centerch.com/fhzw.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://live.centerch.com/fhzx.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
