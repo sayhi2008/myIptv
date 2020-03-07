@@ -547,3 +547,15 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 ,Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1,WFG
+http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:-1,WarnerTV
+http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1,凤凰卫视中文台
+http://liveali.ifeng.com/live/FHZW.m3u8
+#EXTINF:-1,凤凰资讯
+http://live.centerch.com/fhzx.m3u8
+#EXTINF:-1,Star Movie
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1, 阿里郎
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
