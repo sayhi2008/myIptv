@@ -2522,3 +2522,110 @@ https://vdse.bdstatic.com//4d056936c317b35f886ced83147ad7e8.mp4?authorization=bc
 https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=16da20e01f4f5aaf9d82e5be5e6587
 #EXTINF:-1 ,脱衣舞曲
 https://vdse.bdstatic.com/af25e10a4687b71f08f983bb30a14460.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F356fe30457b3a2f571b5201b54839a697ed0f7d13c7d75ae084dae3b361e331c
+
+#EXTINF:-1 ,[国语|香港] 星空卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,[国语|香港] 阳光卫视
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 ,[国语|香港] 香港卫视 HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,[粤语|澳门] 澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 ,[粤语|澳门] 澳视
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 ,[粤语|澳门] 澳视 澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 ,[粤语|澳门] 澳视 资讯
+http://61.244.22.4/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 ,[粤语|澳门] 莲花卫视
+http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:-1 ,[粤语|香港] C+
+https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
+#EXTINF:-1 ,[粤语|香港] 亚旅卫视
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 ,[粤语|香港] 有线 新闻
+https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+#EXTINF:-1 ,[粤语|香港] 有线 新闻 ★
+https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+#EXTINF:-1 ,88賽馬频道
+http://tvbilive11-i.akamaihd.net/hls/live/494672/CH88/CH88-01.m3u8
+#EXTINF:-1 ,HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 ,nhk华语
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#EXTINF:-1 ,nhk英语新闻
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1 ,Tvb   韓劇台
+http://tvbilive17-i.akamaihd.net/hls/live/573853/CKDrama5/CKDrama5-01.m3u8
+#EXTINF:-1 ,Tvb 星河
+http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
+#EXTINF:-1 ,凤凰中文
+http://liveali.ifeng.com/live/FHZW.m3u8
+#EXTINF:-1 ,凤凰中文
+http://125.210.152.18:9090/live/FHZW_1200.m3u8
+#EXTINF:-1 ,凤凰中文
+http://liveali.ifeng.com/live/FHZW.flv
+#EXTINF:-1 ,凤凰资讥
+http://liveali.ifeng.com/live/FHZX.flv
+#EXTINF:-1 ,加美東
+http://tvbilive9-i.akamaihd.net/hls/live/494661/CJCA5E/CJCA5E-04.m3u8
+#EXTINF:-1 ,动物星球
+http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+#EXTINF:-1 ,华语視界日本NHK Japan
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 ,南方TVS-1
+http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
+#EXTINF:-1 ,南方TVS-3
+http://nclive.grtn.cn/4K/sd/live.m3u8
+#EXTINF:-1 ,南方TVS-4
+http://nclive.grtn.cn/tvs4/sd/live.m3u8
+#EXTINF:-1 ,南方TVS-5
+http://nclive.grtn.cn/tvs5/sd/live.m3u8
+#EXTINF:-1 ,南方卫視
+http://nclive.grtn.cn/tvs2/sd/live.m3u8
+#EXTINF:-1 ,新唐人亞太台 NTD TV
+https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 ,日本全天新聞
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 ,有线新闻台
+https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
+#EXTINF:-1 ,澳亞衛視
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 ,澳門微电影
+http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 ,澳門有线一台
+http://202.175.127.77/live/show/ch1/index.m3u8
+#EXTINF:-1 ,澳門莲花Lotus Macau
+http://3026552884.cloudvdn.com/a.m3u8?domain=live-rtmp.macaulotustv.com&player=bmkAAMgf5XZo88kV&secondToken=secondToken%3AOmGgDS5n8GfGgv-zv8OSc8LVCqk&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
+#EXTINF:-1 ,澳門蓮花
+http://401368590.cloudvdn.com/a.m3u8?domain=live-rtmp.lotustv.duolaibo.cn&player=xnEAALXgSHru8OEV&secondToken=secondToken%3A8A95D1jn7TGH09qZItmHRPst3HM&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
+#EXTINF:-1 ,香港時
+http://tvbilive10-i.akamaihd.net/hls/live/494663/CJHK5/CJHK5-04.m3u8
+#EXTINF:-1 ,香港綜合
+http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_2809908_2574327.m3u8
+#EXTINF:-1 ,香港耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 ,鳳凰中文
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 ,鳳凰中文
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 ,鳳凰中文
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 ,鳳凰中文
+http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+#EXTINF:-1 ,鳳凰中文
+http://live.centerch.com/fhzw.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://live.centerch.com/fhzx.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 ,鳳凰資訊
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
